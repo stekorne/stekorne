@@ -4,5 +4,5 @@ I'm a developer with a passion for technology and entrepreneurship. I strive to 
 
 ---
 
-[![Telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/StepanKornev)
+[![Telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/stekorne)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://x.com/stekorne)
